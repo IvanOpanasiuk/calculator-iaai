@@ -1,0 +1,10 @@
+.wrapp {
+  display: flex;
+  border: 1px solid #3366ad;
+  box-sizing: border-box;
+  max-width: 579px;
+  min-height: 78px;
+  margin: auto;
+  background: #E2F0FF;
+}
+

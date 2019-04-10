@@ -1,0 +1,13 @@
+.loading-container {
+    margin: auto;
+}
+.loading-body{
+    display: flex;
+    margin: auto;
+}
+
+.loading-header{
+    color: #000;
+}
+
+

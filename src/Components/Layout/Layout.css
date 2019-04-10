@@ -1,0 +1,27 @@
+/* .wrapp {
+    max-width: 579px;
+    max-height: 78px;
+    margin: auto;
+    border: 1px solid blue;
+    padding: 5px;
+} */
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.calc-header {
+    background: #E2F0FF;
+}
+
+.calc-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #FFF;
+}
+
+.calc-main-order {
+    background: blue;
+
+}
