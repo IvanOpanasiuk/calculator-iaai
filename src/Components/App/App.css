@@ -2,10 +2,13 @@
   display: flex;
   border: 1px solid #3366ad;
   box-sizing: border-box;
-  max-width: 579px;
-  min-height: 78px;
+  width: 579px;
+  height: 78px;
   margin: auto;
-  /* background: #E2F0FF; */
   background: #FFFFFF;
+}
+
+.wrapp-loading-color {
+  background: #E2F0FF;
 }
 

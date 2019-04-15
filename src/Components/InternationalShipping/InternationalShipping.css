@@ -1,0 +1,20 @@
+.main-international-shipping {
+  display: flex;
+  flex-basis: 104px;
+  margin: auto;
+}
+
+.input-border__green {
+  border: 2px solid #fa762e;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+}
+
+.international-shipping-link {
+  text-decoration-style: dotted;
+  font-style: normal;
+  font-size: 9px;
+  line-height: normal;
+  color: #c4c4c4;
+}
