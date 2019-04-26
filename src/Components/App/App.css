@@ -1,0 +1,14 @@
+.wrapp {
+  display: flex;
+  border: 1px solid #3366ad;
+  box-sizing: border-box;
+  width: 579px;
+  height: 78px;
+  margin: auto;
+  background: #FFFFFF;
+  position: relative;
+}
+
+.wrapp-loading-color {
+  background: #E2F0FF;
+}

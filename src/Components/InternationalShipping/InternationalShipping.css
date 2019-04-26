@@ -1,0 +1,13 @@
+.main-international-shipping {
+  display: flex;
+  flex-basis: 104px;
+  margin: auto;
+}
+
+.international-shipping-link {
+  text-decoration-style: dotted;
+  font-style: normal;
+  font-size: 9px;
+  line-height: normal;
+  color: #c4c4c4;
+}

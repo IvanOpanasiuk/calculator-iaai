@@ -1,0 +1,46 @@
+.loading-container {
+  margin: auto;
+}
+.loading-body {
+  display: flex;
+  flex: none;
+}
+
+.loading-logo {
+  width: 24px;
+  height: 24px;
+  margin-right: 6px;
+}
+
+.loading-logo img {
+  width: 100%;
+  height: 100%;
+}
+
+.loading-content {
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+}
+
+.loading-header {
+  /* font-family: Roboto; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: normal;
+
+  color: #000000;
+}
+
+.loading-text {
+  /* font-family: Open Sans; */
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: normal;
+
+  color: #000000;
+
+  opacity: 0.4;
+}
